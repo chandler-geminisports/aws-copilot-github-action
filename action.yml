@@ -1,6 +1,5 @@
 name: "AWS Copilot"
 description: "AWS Copilot GitHub Action"
-author: "ksivamuthu"
 inputs:
   command:
     required: true
